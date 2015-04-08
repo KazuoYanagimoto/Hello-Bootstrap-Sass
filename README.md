@@ -1,2 +1,2 @@
 # Hello-Bootstrap-Sass
-A basic project template system for creating web-apps powered by Bootstrap/Sass.
+> Hello-Bootstrap-Sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.

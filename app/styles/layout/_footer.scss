@@ -1,0 +1,12 @@
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	.heart {
+		color: $color-booty;
+		&:hover {
+			color: lighten($color-booty, 10%);
+		}
+	}
+}
