@@ -5,7 +5,7 @@
   "authors": [
     "kazuoyanagimoto <kazuo.yanagimoto@gmail.com>"
   ],
-  "description": "a basic project template for creating web-app.",
+  "description": "A basic project template system for creating web-apps by Sass-powered version of Bootstrap.",
   "keywords": [
     "hello",
     "world"
