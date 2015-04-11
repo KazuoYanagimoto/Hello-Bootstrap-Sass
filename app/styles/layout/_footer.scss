@@ -4,9 +4,9 @@ footer {
 	width: 100%;
 	text-align: center;
 	.heart {
-		color: $color-booty;
+		color: $color-primary;
 		&:hover {
-			color: lighten($color-booty, 10%);
+			color: $color-secondary;
 		}
 	}
 }
