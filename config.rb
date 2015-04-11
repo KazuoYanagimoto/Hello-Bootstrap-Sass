@@ -2,11 +2,9 @@
 require 'font-awesome-sass'
 require 'bootstrap-sass'
 require 'sass-globbing'
-# require 'susy'
-# require 'breakpoint'
 
 # Set this to the root of your project when deployed:
-# http_path = "/"
+http_path = "/"
 dev_dir = "app"
 # css_dir = dev_dir +"/styles"
 # sass_dir = dev_dir +"/styles"
